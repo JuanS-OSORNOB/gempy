@@ -2,6 +2,7 @@
 Perth basin.
 ============
 """
+#%%
 import os
 
 # Importing GemPy
